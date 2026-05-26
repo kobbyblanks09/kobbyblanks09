@@ -12,8 +12,8 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Docker & container management                 | <a href="https://google.com">Detection Lab</a>|
-| Web app security fundamentals                 | <a href="https://google.com">Detection Lab</a>|
+| Docker & container management                 | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
+| Web app security fundamentals                 | <a href="[https://google.com]https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
 | SIEM agent deployment & log analysis          | SOC Automation Lab|
 | Linux system administration                   | SOC Automation Lab|
 | Attack simulation (Hydra, sqlmap)             | SOC Automation Lab|
