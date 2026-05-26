@@ -1,5 +1,5 @@
 # Hello, I'm Courage Degboe-Gakpetor
-<a href="https://linkedin.com](https://www.linkedin.com/in/courage-degboe-gakpetor-6b7b6b255/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/courage-degboe-gakpetor-6b7b6b255/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
@@ -13,13 +13,13 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Docker & container management                 | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
-| Web app security fundamentals                 | <a href="[https://google.com]https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
-| SIEM agent deployment & log analysis          | SOC Automation Lab|
-| Linux system administration                   | SOC Automation Lab|
-| Attack simulation (Hydra, sqlmap)             | SOC Automation Lab|
-| Custom detection engineering in Wazuh         | SOC Automation Lab|
-| MITRE ATT&CK framework application            | SOC Automation Lab|
-| Log monitoring & alert validation             | SOC Automation Lab|
+| Web app security fundamentals                 | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
+| SIEM agent deployment & log analysis          | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
+| Linux system administration                   | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
+| Attack simulation (Hydra, sqlmap)             | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
+| Custom detection engineering in Wazuh         | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
+| MITRE ATT&CK framework application            | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
+| Log monitoring & alert validation             | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
