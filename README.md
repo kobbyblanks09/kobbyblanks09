@@ -61,5 +61,7 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Deployment
+- Log Collection
+- Traffic Simulation
+- Detection Rules
