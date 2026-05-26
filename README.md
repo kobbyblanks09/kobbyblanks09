@@ -12,14 +12,14 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Docker & container management                 | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
-| Web app security fundamentals                 | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
-| SIEM agent deployment & log analysis          | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
-| Linux system administration                   | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
-| Attack simulation (Hydra, sqlmap)             | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
-| Custom detection engineering in Wazuh         | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
-| MITRE ATT&CK framework application            | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
-| Log monitoring & alert validation             | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Detection Lab</a>|
+| Docker & container management                 | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Log Analysis & Threat Detection</a>|
+| Web app security fundamentals                 | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Log Analysis & Threat Detection</a>|
+| SIEM agent deployment & log analysis          | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Log Analysis & Threat Detection</a>|
+| Linux system administration                   | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Log Analysis & Threat Detection</a>|
+| Attack simulation (Hydra, sqlmap)             | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Log Analysis & Threat Detection</a>|
+| Custom detection engineering in Wazuh         | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Log Analysis & Threat Detection</a>|
+| MITRE ATT&CK framework application            | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Log Analysis & Threat Detection</a>|
+| Log monitoring & alert validation             | <a href="https://drive.google.com/drive/folders/1oerWduWmgVge6ZAl5kPeqZWFfCGlRlUD?usp=sharing">Log Analysis & Threat Detection</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
