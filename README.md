@@ -30,17 +30,33 @@ My journey in tech has led me to develop a passion for cybersecurity, and I am n
     <img src="https://img.shields.io/badge/-Linux-000000?&style=for-the-badge&logo=Linux&logoColor=white" />
 </div>
 
-### Endpoint
+### Web Application Security
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-DVWA-FF0000?&style=for-the-badge&logo=Apache&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-Hydra-006400?&style=for-the-badge&logo=GNU&logoColor=white" />  
+    <img src="https://img.shields.io/badge/-sqlmap-FFD700?&style=for-the-badge&logo=MySQL&logoColor=black" />  
+    <img src="https://img.shields.io/badge/-curl-073551?&style=for-the-badge&logo=curl&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM & Log Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Wazuh-5A5A5A?&style=for-the-badge&logo=Wazuh&logoColor=white" />  
+   <img src="https://img.shields.io/badge/-Apache-CA2136?&style=for-the-badge&logo=Apache&logoColor=white" />  
+   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### SIEM & Log Analysis
+<div>
+   <img src="https://img.shields.io/badge/-Wazuh-5A5A5A?&style=for-the-badge&logo=Wazuh&logoColor=white" />  
+   <img src="https://img.shields.io/badge/-Apache-CA2136?&style=for-the-badge&logo=Apache&logoColor=white" />  
+   <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+### Detection Engineering & Threat Frameworks
+<div>
+   <img src="https://img.shields.io/badge/-Wazuh_Rules-5A5A5A?&style=for-the-badge&logo=Wazuh&logoColor=white" />  
+   <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-FF6600?&style=for-the-badge&logo=Mitre&logoColor=white" />  
+   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
 ## Certifications
